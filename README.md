@@ -17,7 +17,7 @@
 # imbalanced classification
 | title | confrence/journal | data | code |
 | :--------: | :----: | :--------: | :----: |
-| [Range control-based class imbalance and optimized granular<brelastic net regression feature selection for credit risk assessment](https://link.springer.com/article/10.1007/s10115-024-02103-9)    | 作者3| 2024.04     | 笔记3|
+| [Range control-based class imbalance and optimized granular<br>elastic net regression feature selection for credit risk assessment](https://link.springer.com/article/10.1007/s10115-024-02103-9)    | 作者3| 2024.04     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
