@@ -33,6 +33,6 @@
 | title | confrence/journal | data | code |
 | :--------: | :----: | :--------: | :----: |
 | [A survey on imbalanced learning: latest research,<br>applications and future directions](https://link.springer.com/article/10.1007/s10462-024-10759-6)    | 作者3| 2024.05     | 笔记3|
-| [Resampling strategies for imbalanced<br>regression: a survey and empirical analysis](https://link.springer.com/article/10.1007/s10462-024-10724-3)    | 作者3| 2024.3    | 笔记3|
+| [Resampling strategies for imbalanced<br>regression: a survey and empirical analysis](https://link.springer.com/article/10.1007/s10462-024-10724-3)    | 作者3| 2024.03    | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
