@@ -9,6 +9,16 @@
 | [REBAGG: REsampled BAGGing for<br>Imbalanced Regression](https://proceedings.mlr.press/v94/branco18a.html)    | 作者3| 2018     | 笔记3|
 | [RankSim: Ranking Similarity Regularization<br>for Deep Imbalanced Regression](https://arxiv.org/abs/2205.15236)    | ICML 2022| 2022.05     | 笔记3|
 | [Geometric SMOTE for regression](https://www.sciencedirect.com/science/article/abs/pii/S095741742101678X)    | 作者3| 2022.05     | 笔记3|
+| [Imbalanced regression and extreme value prediction](https://link.springer.com/article/10.1007/s10994-020-05900-9)    | 作者3| 2020.09     | 笔记3|
+| [Model Optimization in Imbalanced Regression](https://arxiv.org/abs/2206.09991)    | 作者3| 2022.06     | 笔记3|
+| [WSMOTER: a novel approach for imbalanced regression](https://link.springer.com/article/10.1007/s10489-024-05608-6)    | 作者3| 2024.06     | 笔记3|
+| [DistSMOGN: Distributed SMOGN for<br>Imbalanced Regression Problems](https://proceedings.mlr.press/v183/song22a.html)    | 作者3| 2022     | 笔记3|
+| [Semi-supervised graph imbalanced regression](https://arxiv.org/abs/2305.12087)    | KDD2023| 2023.05     | 笔记3|
+| [Evaluation of Ensemble Methods in<br>Imbalanced Regression Tasks](https://proceedings.mlr.press/v74/moniz17a.html)    | 作者3| 2017     | 笔记3|
+| [Dealing with imbalanced regression problem<br>for large dataset using scalable<br>Artificial Neural Network](https://www.sciencedirect.com/science/article/abs/pii/S1384107622001415)   | 作者3| 2023.02     | 笔记3|
+| [Enhancing soft computing techniques to actively address imbalanced regression problems](https://doi.org/10.1016/j.eswa.2023.121011)    | 作者3| 2023.12     | 笔记3|
+| 论文3    | 作者3| 2023     | 笔记3|
+| 论文3    | 作者3| 2023     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
@@ -34,5 +44,5 @@
 | :--------: | :----: | :--------: | :----: |
 | [A survey on imbalanced learning: latest research,<br>applications and future directions](https://link.springer.com/article/10.1007/s10462-024-10759-6)    | 作者3| 2024.05     | 笔记3|
 | [Resampling strategies for imbalanced<br>regression: a survey and empirical analysis](https://link.springer.com/article/10.1007/s10462-024-10724-3)    | 作者3| 2024.03    | 笔记3|
-| 论文3    | 作者3| 2023     | 笔记3|
+| [Learning from imbalanced data:<br>open challenges and future directions](https://link.springer.com/article/10.1007/s13748-016-0094-0)    | 作者3| 2016.04     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
