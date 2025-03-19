@@ -7,7 +7,7 @@
 | [Density-based weighting for imbalanced regression](https://link.springer.com/article/10.1007/s10994-021-06023-5)    | 作者3| 2021     | 笔记3|
 | [Pre-processing approaches for imbalanced<br>distributions in regression](https://www.sciencedirect.com/science/article/abs/pii/S0925231219301638)    | 作者3| 2019     | 笔记3|
 | [REBAGG: REsampled BAGGing for<br>Imbalanced Regression](https://proceedings.mlr.press/v94/branco18a.html)    | 作者3| 2018     | 笔记3|
-| [RankSim: Ranking Similarity Regularization<br>for Deep Imbalanced Regression](https://arxiv.org/abs/2205.15236)    | ICML 2022| 2022.05     | 笔记3|
+| [RankSim: Ranking Similarity Regularization<br>for Deep Imbalanced Regression](https://arxiv.org/abs/2205.15236)    | ICML2022| 2022.05     | 笔记3|
 | [Geometric SMOTE for regression](https://www.sciencedirect.com/science/article/abs/pii/S095741742101678X)    | 作者3| 2022.05     | 笔记3|
 | [Imbalanced regression and extreme value prediction](https://link.springer.com/article/10.1007/s10994-020-05900-9)    | 作者3| 2020.09     | 笔记3|
 | [Model Optimization in Imbalanced Regression](https://arxiv.org/abs/2206.09991)    | 作者3| 2022.06     | 笔记3|
