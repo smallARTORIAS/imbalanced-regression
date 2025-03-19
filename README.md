@@ -16,7 +16,7 @@
 | [Semi-supervised graph imbalanced regression](https://arxiv.org/abs/2305.12087)    | KDD2023| 2023.05     | 笔记3|
 | [Evaluation of Ensemble Methods in<br>Imbalanced Regression Tasks](https://proceedings.mlr.press/v74/moniz17a.html)    | 作者3| 2017     | 笔记3|
 | [Dealing with imbalanced regression problem<br>for large dataset using scalable<br>Artificial Neural Network](https://www.sciencedirect.com/science/article/abs/pii/S1384107622001415)   | 作者3| 2023.02     | 笔记3|
-| [Enhancing soft computing techniques to actively address imbalanced regression problems](https://doi.org/10.1016/j.eswa.2023.121011)    | 作者3| 2023.12     | 笔记3|
+| [Enhancing soft computing techniques to<br>actively address imbalanced regression problems](https://doi.org/10.1016/j.eswa.2023.121011)    | 作者3| 2023.12     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
