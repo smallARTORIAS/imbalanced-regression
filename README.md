@@ -1,6 +1,6 @@
 # imbalanced regression
-| title | confrence/journal | data | method |
-| :--------: | :----: | :--------: | :----: |
+| title | confrence/journal | data | method | keywords |
+| :--------: | :----: | :--------: | :----: | :----: |
 | [Delving into deep imbalanced regression](https://arxiv.org/abs/2102.09554)    | ICML2021| 2021.02     | [label distribution smooth<br>feature distribution smooth](https://github.com/YyzHarry/imbalanced-regression)|
 | [Balanced mse for imbalanced visual regression](https://arxiv.org/abs/2203.16427)    | CVPR2022| 2022.03     | [笔记2](https://github.com/jiawei-ren/BalancedMSE)|
 | [SMOGN: a Pre-processing Approach for<br>Imbalanced Regression](https://proceedings.mlr.press/v74/branco17a)    | 作者3| 2017 | 笔记3|
@@ -24,17 +24,17 @@
 | 论文3    | 作者3| 2023     | 笔记3|
 
 # imbalanced classification
-| title | confrence/journal | data | code |
-| :--------: | :----: | :--------: | :----: |
+| title | confrence/journal | data | code | keywords |
+| :--------: | :----: | :--------: | :----: | :----: |
 | [Range control-based class imbalance<br>and optimized granular elastic net regression<br>feature selection for credit risk assessment](https://link.springer.com/article/10.1007/s10115-024-02103-9)    | 作者3| 2024.04     | 笔记3|
 | [Exploring Vision-Language Models for Imbalanced Learning](https://link.springer.com/article/10.1007/s11263-023-01868-w)    | 作者3| 2023     | 笔记3|
-| 论文3    | 作者3| 2023     | 笔记3|
+| [Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection](https://dl.acm.org/doi/abs/10.1145/3442381.3449989)    | 作者3| 2023     | 笔记3| class imbalance, graph neural network, fraud detection|
 | 论文3    | 作者3| 2023     | 笔记3|
 
 
 # irregular time series
-| title | confrence/journal | data | code |
-| :--------: | :----: | :--------: | :----: |
+| title | confrence/journal | data | code | keywords |
+| :--------: | :----: | :--------: | :----: | :----: |
 | 论文3    | 作者3| 2023     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
@@ -48,8 +48,8 @@
 | 论文3    | 作者3| 2023     | 笔记3|
 
 # survey
-| title | confrence/journal | data | code |
-| :--------: | :----: | :--------: | :----: |
+| title | confrence/journal | data | code | keywords |
+| :--------: | :----: | :--------: | :----: | :----: |
 | [A survey on imbalanced learning: latest research,<br>applications and future directions](https://link.springer.com/article/10.1007/s10462-024-10759-6)    | 作者3| 2024.05     | 笔记3|
 | [Resampling strategies for imbalanced<br>regression: a survey and empirical analysis](https://link.springer.com/article/10.1007/s10462-024-10724-3)    | 作者3| 2024.03    | 笔记3|
 | [Learning from imbalanced data:<br>open challenges and future directions](https://link.springer.com/article/10.1007/s13748-016-0094-0)    | 作者3| 2016.04     | 笔记3|
