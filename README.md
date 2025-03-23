@@ -40,10 +40,10 @@
 | 论文3    | 作者3| 2023     | 笔记3|
 
 # imbalanced learning
-| title | confrence/journal | data | code |
-| :--------: | :----: | :--------: | :----: |
+| title | confrence/journal | data | code | keywords |
+| :--------: | :----: | :--------: | :----: | :----: |
 | [Deep Imbalanced Learning for Multimodal<br>Emotion Recognition in Conversations](https://ieeexplore.ieee.org/abstract/document/10639357)    | 作者3| 2024.08     | 笔记3|
-| [Exploring Vision-Language Models for Imbalanced Learning](https://link.springer.com/article/10.1007/s11263-023-01868-w)    | 作者3| 2023     | 笔记3|
+| [Exploring Vision-Language Models for Imbalanced Learning](https://link.springer.com/article/10.1007/s11263-023-01868-w)    | 作者3| 2023.08     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
 
