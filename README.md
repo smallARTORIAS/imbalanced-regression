@@ -27,7 +27,7 @@
 | title | confrence/journal | data | code |
 | :--------: | :----: | :--------: | :----: |
 | [Range control-based class imbalance<br>and optimized granular elastic net regression<br>feature selection for credit risk assessment](https://link.springer.com/article/10.1007/s10115-024-02103-9)    | 作者3| 2024.04     | 笔记3|
-| 论文3    | 作者3| 2023     | 笔记3|
+| [Exploring Vision-Language Models for Imbalanced Learning](https://link.springer.com/article/10.1007/s11263-023-01868-w)    | 作者3| 2023     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
 
@@ -39,10 +39,26 @@
 | 论文3    | 作者3| 2023     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
 
+# imbalanced learning
+| title | confrence/journal | data | code |
+| :--------: | :----: | :--------: | :----: |
+| [Deep Imbalanced Learning for Multimodal<br>Emotion Recognition in Conversations](https://ieeexplore.ieee.org/abstract/document/10639357)    | 作者3| 2024.08     | 笔记3|
+| [Exploring Vision-Language Models for Imbalanced Learning](https://link.springer.com/article/10.1007/s11263-023-01868-w)    | 作者3| 2023     | 笔记3|
+| 论文3    | 作者3| 2023     | 笔记3|
+| 论文3    | 作者3| 2023     | 笔记3|
+
 # survey
 | title | confrence/journal | data | code |
 | :--------: | :----: | :--------: | :----: |
 | [A survey on imbalanced learning: latest research,<br>applications and future directions](https://link.springer.com/article/10.1007/s10462-024-10759-6)    | 作者3| 2024.05     | 笔记3|
 | [Resampling strategies for imbalanced<br>regression: a survey and empirical analysis](https://link.springer.com/article/10.1007/s10462-024-10724-3)    | 作者3| 2024.03    | 笔记3|
 | [Learning from imbalanced data:<br>open challenges and future directions](https://link.springer.com/article/10.1007/s13748-016-0094-0)    | 作者3| 2016.04     | 笔记3|
+| [A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions](https://ieeexplore.ieee.org/abstract/document/10924418)    | 作者3| 2025.03     | 笔记3|
+| [Cost-sensitive learning for imbalanced medical data: a review](https://link.springer.com/article/10.1007/s10462-023-10652-8)    | 作者3| 2024.03     | 笔记3|
+| 论文3    | 作者3| 2023     | 笔记3|
+| 论文3    | 作者3| 2023     | 笔记3|
+| 论文3    | 作者3| 2023     | 笔记3|
+| 论文3    | 作者3| 2023     | 笔记3|
+| 论文3    | 作者3| 2023     | 笔记3|
+| 论文3    | 作者3| 2023     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
