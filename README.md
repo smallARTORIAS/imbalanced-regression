@@ -17,11 +17,6 @@
 | [Evaluation of Ensemble Methods in<br>Imbalanced Regression Tasks](https://proceedings.mlr.press/v74/moniz17a.html)    | 作者3| 2017     | 笔记3|
 | [Dealing with imbalanced regression problem<br>for large dataset using scalable<br>Artificial Neural Network](https://www.sciencedirect.com/science/article/abs/pii/S1384107622001415)   | 作者3| 2023.02     | 笔记3|
 | [Enhancing soft computing techniques to<br>actively address imbalanced regression problems](https://doi.org/10.1016/j.eswa.2023.121011)    | 作者3| 2023.12     | 笔记3|
-| 论文3    | 作者3| 2023     | 笔记3|
-| 论文3    | 作者3| 2023     | 笔记3|
-| 论文3    | 作者3| 2023     | 笔记3|
-| 论文3    | 作者3| 2023     | 笔记3|
-| 论文3    | 作者3| 2023     | 笔记3|
 
 # imbalanced classification
 | title | confrence/journal | data | code | keywords |
@@ -29,6 +24,7 @@
 | [Range control-based class imbalance<br>and optimized granular elastic net regression<br>feature selection for credit risk assessment](https://link.springer.com/article/10.1007/s10115-024-02103-9)    | 作者3| 2024.04     | 笔记3|
 | [Exploring Vision-Language Models for Imbalanced Learning](https://link.springer.com/article/10.1007/s11263-023-01868-w)    | 作者3| 2023     | 笔记3|
 | [Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection](https://dl.acm.org/doi/abs/10.1145/3442381.3449989)    | 作者3| 2023     | 笔记3| class imbalance, graph neural network, fraud detection|
+| [Balanced Meta-Softmax for Long-Tailed Visual Recognition](https://arxiv.org/abs/2007.10740)    | 作者3| 2020.07     | 笔记3|
 | 论文3    | 作者3| 2023     | 笔记3|
 
 
@@ -55,10 +51,3 @@
 | [Learning from imbalanced data:<br>open challenges and future directions](https://link.springer.com/article/10.1007/s13748-016-0094-0)    | 作者3| 2016.04     | 笔记3|
 | [A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions](https://ieeexplore.ieee.org/abstract/document/10924418)    | 作者3| 2025.03     | 笔记3|
 | [Cost-sensitive learning for imbalanced medical data: a review](https://link.springer.com/article/10.1007/s10462-023-10652-8)    | 作者3| 2024.03     | 笔记3|
-| 论文3    | 作者3| 2023     | 笔记3|
-| 论文3    | 作者3| 2023     | 笔记3|
-| 论文3    | 作者3| 2023     | 笔记3|
-| 论文3    | 作者3| 2023     | 笔记3|
-| 论文3    | 作者3| 2023     | 笔记3|
-| 论文3    | 作者3| 2023     | 笔记3|
-| 论文3    | 作者3| 2023     | 笔记3|
