@@ -4,6 +4,7 @@
 | [Delving into deep imbalanced regression](https://arxiv.org/abs/2102.09554)    | ICML2021| 2021.02     | [label distribution smooth,<br>feature distribution smooth](https://github.com/YyzHarry/imbalanced-regression)|
 | [Balanced mse for imbalanced visual regression](https://arxiv.org/abs/2203.16427)    | CVPR2022| 2022.03     | [笔记2](https://github.com/jiawei-ren/BalancedMSE)|
 | [SMOGN: a Pre-processing Approach for<br>Imbalanced Regression](https://proceedings.mlr.press/v74/branco17a)    | 作者3| 2017 | SmoteR,Gaussian Noise,<br>Random Undersampling|[1](https://www.cnblogs.com/linfangnan/p/18033966)|
+| [SMOTE for Regression](https://link.springer.com/chapter/10.1007/978-3-642-40669-0_33#preview)    | 作者3| 2013     | 笔记3|
 | [Density-based weighting for imbalanced regression](https://link.springer.com/article/10.1007/s10994-021-06023-5)    | 作者3| 2021     | 笔记3|
 | [Pre-processing approaches for imbalanced<br>distributions in regression](https://www.sciencedirect.com/science/article/abs/pii/S0925231219301638)    | 作者3| 2019     | 笔记3|
 | [REBAGG: REsampled BAGGing for<br>Imbalanced Regression](https://proceedings.mlr.press/v94/branco18a.html)    | 作者3| 2018     | 笔记3|
@@ -19,13 +20,13 @@
 | [Enhancing soft computing techniques to<br>actively address imbalanced regression problems](https://doi.org/10.1016/j.eswa.2023.121011)    | 作者3| 2023.12     | 笔记3|
 
 # imbalanced classification
-| title | confrence/journal | data | code | keywords |
-| :--------: | :----: | :--------: | :----: | :----: |
+| title | confrence/journal | data | code | keywords | paper reading |
+| :--------: | :----: | :--------: | :----: | :----: |:--------: |
 | [Range control-based class imbalance<br>and optimized granular elastic net regression<br>feature selection for credit risk assessment](https://link.springer.com/article/10.1007/s10115-024-02103-9)    | 作者3| 2024.04     | 笔记3|
 | [Exploring Vision-Language Models for Imbalanced Learning](https://link.springer.com/article/10.1007/s11263-023-01868-w)    | 作者3| 2023     | 笔记3|
 | [Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection](https://dl.acm.org/doi/abs/10.1145/3442381.3449989)    | 作者3| 2023     | 笔记3| class imbalance, graph neural network, fraud detection|
 | [Balanced Meta-Softmax for Long-Tailed Visual Recognition](https://arxiv.org/abs/2007.10740)    | 作者3| 2020.07     | 笔记3|
-| 论文3    | 作者3| 2023     | 笔记3|
+| [Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://arxiv.org/abs/2006.07529)   | 作者3| 2020.06     | 笔记3|[1](https://zhuanlan.zhihu.com/p/259710601)|
 
 
 # irregular time series
@@ -51,3 +52,10 @@
 | [Learning from imbalanced data:<br>open challenges and future directions](https://link.springer.com/article/10.1007/s13748-016-0094-0)    | 作者3| 2016.04     | 笔记3|
 | [A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions](https://ieeexplore.ieee.org/abstract/document/10924418)    | 作者3| 2025.03     | 笔记3|
 | [Cost-sensitive learning for imbalanced medical data: a review](https://link.springer.com/article/10.1007/s10462-023-10652-8)    | 作者3| 2024.03     | 笔记3|
+
+# others
+| title | confrence/journal | data | code | keywords |
+| :--------: | :----: | :--------: | :----: | :----: |
+| [What is the Effect of Importance Weighting in Deep Learning?](https://arxiv.org/abs/1812.03372)    | 作者3| 2018.12     | 笔记3|
+| [Return of Frustratingly Easy Domain Adaptation](https://arxiv.org/abs/1511.05547)    | 作者3| 2023     | 笔记3|
+| 论文3    | 作者3| 2023     | 笔记3|
